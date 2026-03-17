@@ -1,0 +1,30 @@
+:root {
+  --x-1c: rgba(246, 209, 197, 1);
+  --x-1f: rgba(89, 75, 71, 1);
+  --x-1e: rgba(115, 99, 96, 1);
+  --x-1a: rgba(252, 243, 239, 1);
+  --text-font-family: "Commissioner", Helvetica;
+  --text-font-weight: 400;
+  --text-font-size: 18px;
+  --text-letter-spacing: 0.72px;
+  --text-line-height: 28px;
+  --text-font-style: normal;
+  --card-title-font-family: "Athelas", Helvetica;
+  --card-title-font-weight: 700;
+  --card-title-font-size: 28px;
+  --card-title-letter-spacing: 0.56px;
+  --card-title-line-height: 80px;
+  --card-title-font-style: normal;
+  --text-title-font-family: "Athelas", Helvetica;
+  --text-title-font-weight: 700;
+  --text-title-font-size: 32px;
+  --text-title-letter-spacing: 0.64px;
+  --text-title-line-height: 80px;
+  --text-title-font-style: normal;
+  --text-bold-font-family: "Commissioner", Helvetica;
+  --text-bold-font-weight: 500;
+  --text-bold-font-size: 20px;
+  --text-bold-letter-spacing: 0.4px;
+  --text-bold-line-height: 28px;
+  --text-bold-font-style: normal;
+}
