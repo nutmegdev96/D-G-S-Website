@@ -43,3 +43,7 @@ Per modificare il sito:
 ## Licenza
 
 Tutti i diritti riservati - Dolci Sardi Gioiello
+© 2026 nutmeg.dev 
+Site code licensed under MIT. 
+Content all rights reserved.
+
